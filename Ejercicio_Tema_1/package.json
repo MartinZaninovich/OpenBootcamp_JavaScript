@@ -1,0 +1,12 @@
+{
+  "name": "ejercicio_tema_1",
+  "version": "1.0.0",
+  "description": "Primer ejercicio del Curso de JavaScript en Open Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "saludo": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Zaninovich",
+  "license": "ISC"
+}
