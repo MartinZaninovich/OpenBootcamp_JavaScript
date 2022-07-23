@@ -1,0 +1,12 @@
+{
+  "name": "ejercicio_tema_5",
+  "version": "1.0.0",
+  "description": "Entrega de Ejercicio Tema 5",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Zaninovich",
+  "license": "ISC"
+}
