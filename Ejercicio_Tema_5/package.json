@@ -1,7 +1,7 @@
 {
   "name": "ejercicio_tema_5",
   "version": "1.0.0",
-  "description": "Entrega de Ejercicio Tema 5",
+  "description": "Quinto ejercicio del Curso de JavaScript en Open Bootcamp",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
