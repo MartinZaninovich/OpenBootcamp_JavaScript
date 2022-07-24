@@ -1,0 +1,12 @@
+{
+  "name": "ejercicio_tema_7_1",
+  "version": "1.0.0",
+  "description": "Séptimo ejercicio del Curso de JavaScript en Open Bootcamp",
+  "main": "conjuntos.js",
+  "scripts": {
+    "start": "node conjuntos.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martín Zaninovich",
+  "license": "ISC"
+}
