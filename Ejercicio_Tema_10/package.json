@@ -1,0 +1,16 @@
+{
+  "name": "ejercicio_tema_10",
+  "version": "1.0.0",
+  "description": "Décimo ejercicio del Curso de JavaScript en Open Bootcamp",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Martín Zaninovich",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
+}
