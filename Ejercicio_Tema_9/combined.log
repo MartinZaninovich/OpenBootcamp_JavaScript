@@ -1,0 +1,6 @@
+{"level":"info","message":"Funcionó correctamente.","service":"user-service"}
+{"level":"info","message":"Soy el finally. Me ejecuto pase lo que pase","service":"user-service"}
+{"level":"error","message":"No se ha ingresado el tipo de dato correcto.","service":"user-service"}
+{"level":"info","message":"Soy el finally. Me ejecuto pase lo que pase","service":"user-service"}
+{"level":"error","message":"No se ha ingresado el tipo de dato correcto."}
+{"level":"info","message":"Soy el finally. Me ejecuto pase lo que pase"}
