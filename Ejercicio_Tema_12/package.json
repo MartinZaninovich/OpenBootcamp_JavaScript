@@ -1,0 +1,11 @@
+{
+  "name": "ejercicio_tema_12",
+  "version": "1.0.0",
+  "description": "Décimo segundo ejercicio del Curso de JavaScript en Open Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Martín Zaninovich",
+  "license": "ISC"
+}
